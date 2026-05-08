@@ -31,7 +31,7 @@ Get your Pinecone API key from Pinecone Console
 4. Run the app
 bashstreamlit run app.py
 
-📂 Project Structure
+ Project Structure
 |-- app.py                  # Main Streamlit application
 |-- requirements.txt        # Python dependencies
 |-- .env                    # API keys (not committed to GitHub)
